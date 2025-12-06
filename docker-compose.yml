@@ -95,7 +95,6 @@ services:
       SERVER_PORT: "8002"
       # SQLite persistido en /app/data
       SPRING_DATASOURCE_URL: "jdbc:postgresql://ep-bitter-meadow-a4ogzcxh-pooler.us-east-1.aws.neon.tech:5432/verceldb?sslmode=require"
-      SPRING_JPA_HIBERNATE_DDL_AUTO: "update"
       # Eureka
       EUREKA_URL: "http://eureka:8761/eureka"
       EUREKA_CLIENT_SERVICEURL_DEFAULTZONE: "http://eureka:8761/eureka"
