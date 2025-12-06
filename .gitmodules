@@ -1,0 +1,15 @@
+[submodule "StockQueryService"]
+	path = StockQueryService
+	url = https://github.com/RaulArmasBenavides/StockQueryService.git
+[submodule "StockOperationService"]
+	path = StockOperationService
+	url = https://github.com/RaulArmasBenavides/StockOperationService.git
+[submodule "cloud_api_gw"]
+	path = cloud_api_gw
+	url = https://github.com/RaulArmasBenavides/cloud_api_gw.git
+[submodule "UserAuthService"]
+	path = UserAuthService
+	url = https://github.com/RaulArmasBenavides/UserAuthService.git
+[submodule "eureka-server"]
+	path = eureka-server
+	url = https://github.com/RaulArmasBenavides/eureka-server.git
